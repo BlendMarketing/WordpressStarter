@@ -1,3 +1,4 @@
 composer.phar
 public/wp
 public/wp/*
+vendor
